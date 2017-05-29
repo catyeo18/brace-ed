@@ -1,2 +1,2 @@
-# brace-ed
-Website for Brace-Ed
+# Brace-Ed
+Template: Timer, from ThemeFisher
