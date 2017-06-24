@@ -857,8 +857,9 @@ ul.social-icons li {
   padding: 4px 12px;
 }
 .about-feature {
-  margin-top: 50px;
+  margin-top: 0px;
 }
+
 .about-feature .block {
   color: #fff;
   width: 33.33%;
@@ -876,6 +877,15 @@ ul.social-icons li {
 }
 .about-feature .about-feature-3 {
   background: #00A6BB;
+}
+.about-feature .about-feature-4 {
+  background: #660066;
+}
+.about-feature .about-feature-5 {
+  background: #4d004d;
+}
+.about-feature .about-feature-6 {
+  background: #330033;
 }
 #blog-full-width {
   padding: 40px 0 80px;
