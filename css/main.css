@@ -869,42 +869,29 @@ ul.social-icons li {
   font-weight: 300;
 }
 .about-feature .about-feature-1 {
-  background: #02bdd5;
+  background: #660066;
 }
 .about-feature .about-feature-2 {
-  background: #00B0C7;
+  background: #4d004d;
 }
 .about-feature .about-feature-3 {
-  background: #00A6BB;
-}
-.flexbox {      
-  display: -webkit-flex;        
-  display: -ms-flexbox;     
-  display: flex;
-  overflow: hidden;
-}
-.flexbox .col {
-  flex: 1;
-  color: #fff;
-  padding: 20px;
-}
-.flexbox .col:nth-child(1) { 
-  background: #660066; 
-  -webkit-order: 0; 
-      -ms-flex-order: 0; 
-          order: 0;
-}
-.flexbox .col:nth-child(2) { 
-  background: #4d004d;
-  -webkit-order: 1;
-      -ms-flex-order: 1;
-          order: 1;
-}
-.flexbox .col:nth-child(3) { 
   background: #330033;
-  -webkit-order: 2;
-      -ms-flex-order: 2;
-          order: 2;
+}
+#actual-table { border-collapse: collapse; }
+#actual-table td {
+  color: #fff;
+  width: 33.3%;
+  padding: 5%;
+  vertical-align: top;
+}
+#actual-table td:nth-child(1) {
+  background: #660066;
+}
+#actual-table td:nth-child(2) {
+  background: #4d004d;
+}
+#actual-table td:nth-child(3) {
+  background: #330033;
 }
 #blog-full-width {
   padding: 40px 0 80px;
