@@ -884,15 +884,7 @@ ul.social-icons li {
   padding: 5%;
   vertical-align: top;
 }
-#actual-table td:nth-child(1) {
-  background: #660066;
-}
-#actual-table td:nth-child(2) {
-  background: #4d004d;
-}
-#actual-table td:nth-child(3) {
-  background: #330033;
-}
+
 #blog-full-width {
   padding: 40px 0 80px;
 }
